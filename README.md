@@ -1,2 +1,2 @@
 # FlashGame
-fucking school project
+school project
